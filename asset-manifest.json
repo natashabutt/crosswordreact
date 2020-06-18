@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crosswordreact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/crosswordreact/static/js/main.dc04b4d8.chunk.js",
+    "main.js.map": "/crosswordreact/static/js/main.dc04b4d8.chunk.js.map",
+    "runtime-main.js": "/crosswordreact/static/js/runtime-main.4f4cd25b.js",
+    "runtime-main.js.map": "/crosswordreact/static/js/runtime-main.4f4cd25b.js.map",
+    "static/js/2.55b29002.chunk.js": "/crosswordreact/static/js/2.55b29002.chunk.js",
+    "static/js/2.55b29002.chunk.js.map": "/crosswordreact/static/js/2.55b29002.chunk.js.map",
+    "index.html": "/crosswordreact/index.html",
+    "precache-manifest.4ef24a6852295969a56c8b586709807a.js": "/crosswordreact/precache-manifest.4ef24a6852295969a56c8b586709807a.js",
+    "service-worker.js": "/crosswordreact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/crosswordreact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.55b29002.chunk.js.LICENSE.txt": "/crosswordreact/static/js/2.55b29002.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f4cd25b.js",
+    "static/js/2.55b29002.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.dc04b4d8.chunk.js"
+  ]
+}
